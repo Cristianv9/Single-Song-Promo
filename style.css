@@ -100,7 +100,7 @@ p{
 h1, h2 {
     color: #ffffff; 
     text-align: center; 
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    text-shadow: 2px 2px 4px #00000080; 
     margin-bottom: 20px; 
 }
 
